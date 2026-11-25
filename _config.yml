@@ -23,7 +23,7 @@ repository               : "xyjameschen/xyjameschen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "./images/profile.png"
   name             : "Xin-You (James) Chen"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Political Science at National Taiwan University."
