@@ -9,4 +9,4 @@ An interactive, animated "bar chart race" tracing the evolution of arms transfer
 
 The project complements my research on China's arms transfers (see "Armed Dragon! An Empirical Analysis of China's Arms Transfers"). It is built as a self-contained web visualization.
 
-[View the code on GitHub](https://github.com/xyjameschen/race-bars)
+[▶ View the live visualization](https://xyjameschen.github.io/race-bars/) · [Code on GitHub](https://github.com/xyjameschen/race-bars)
